@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2a7d9fc-e29c-4881-a7d9-1a0114996dc1" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/Cycles/task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/If_Else/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/If_Else/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/If_Else/task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cycles/task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cycles/task4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,16 +41,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="If_Else" />
       <recent name="Cycles" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.task5">
-    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cycles.task1" />
+  <component name="RunManager" selected="Application.If_Else.task3">
+    <configuration name="If_Else.task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="If_Else.task1" />
       <module name="Lesson1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Cycles.*" />
+          <option name="PATTERN" value="If_Else.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,14 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Cycles.task2" />
+    <configuration name="If_Else.task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="If_Else.task2" />
       <module name="Lesson1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Cycles.*" />
+          <option name="PATTERN" value="If_Else.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cycles.task3" />
+    <configuration name="If_Else.task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="If_Else.task3" />
       <module name="Lesson1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Cycles.*" />
+          <option name="PATTERN" value="If_Else.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.If_Else.task3" />
+        <item itemvalue="Application.If_Else.task2" />
+        <item itemvalue="Application.If_Else.task1" />
         <item itemvalue="Application.task5" />
         <item itemvalue="Application.task4" />
-        <item itemvalue="Application.task3" />
-        <item itemvalue="Application.task2" />
-        <item itemvalue="Application.task1" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656854106270</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1">
+      <created>1656873928458</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656873928458</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
