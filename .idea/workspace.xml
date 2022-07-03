@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2a7d9fc-e29c-4881-a7d9-1a0114996dc1" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/Cycles/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cycles/task4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,12 @@
     "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.task3">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Cycles" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.task4">
     <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Cycles.task1" />
       <module name="Lesson1" />
@@ -79,8 +84,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cycles.task4" />
+      <module name="Lesson1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task4" />
         <item itemvalue="Application.task3" />
         <item itemvalue="Application.task2" />
         <item itemvalue="Application.task1" />
@@ -117,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656850545787</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1">
+      <created>1656853241385</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656853241385</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
