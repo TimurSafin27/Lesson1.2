@@ -6,7 +6,7 @@ public class task4
 {
     public static void main (String[] args)
     {
-        System.out.println("Цикл while");
+        System.out.println("Цикл while:");
         byte month=0;
         int zp=10000;
         while (zp>-1)
@@ -15,7 +15,7 @@ public class task4
             System.out.println("Цикл while.Зарплата в " + month + " месяце равна " + zp);
             zp=zp-1000;
         }
-        System.out.println("Цикл do...while");
+        System.out.println("Цикл do...while:");
         zp=10000;
         month=0;
         do
@@ -24,7 +24,7 @@ public class task4
             System.out.println("Цикл do...while.Зарплата в " + month + " месяце равна " + zp);
             zp=zp-1000;
         }while (zp>=0);
-        System.out.println("Цикл for");
+        System.out.println("Цикл for:");
         month=0;
         for (zp = 10000; zp >-1; zp=zp-1000)
         {

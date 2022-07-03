@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2a7d9fc-e29c-4881-a7d9-1a0114996dc1" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/Cycles/task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cycles/task5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cycles/task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cycles/task4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
       <recent name="Cycles" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.task4">
+  <component name="RunManager" selected="Application.task5">
     <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Cycles.task1" />
       <module name="Lesson1" />
@@ -97,8 +98,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cycles.task5" />
+      <module name="Lesson1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task5" />
         <item itemvalue="Application.task4" />
         <item itemvalue="Application.task3" />
         <item itemvalue="Application.task2" />
@@ -143,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656853241385</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1">
+      <created>1656854106270</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656854106270</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
