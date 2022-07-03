@@ -20,7 +20,9 @@ public class task2
         System.out.println("startsWith - " + MyName.startsWith(Surname2));
         System.out.println("startsWith - " + MyName.endsWith(Surname2));
         String Name1=" Тимур";
-        System.out.println("Фамилия+имя - " + Surname2.concat(Name1));
+        System.out.println("concat - " + Surname2.concat(Name1));
+        System.out.println("replace - " + MyName1.replace(" ", "_"));
+        System.out.println("contains - " + MyName.contains(Name1));
     }
 }
 
